@@ -1,2 +1,2 @@
 install: make get-deps
-script: scons
+script: make
