@@ -1,4 +1,4 @@
 install: make start
 notifications:
   slack: freschio:GhSGhM36Dzh2G303jXbLvO7M
-script: scons
+script: ls
